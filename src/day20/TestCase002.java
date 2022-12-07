@@ -8,5 +8,7 @@ public class TestCase002 {
 
     // are the clickable
 
+    // testing the responses of the page
+
 
 }
